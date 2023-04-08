@@ -1,6 +1,11 @@
-# Vue 3 + TypeScript + Vite
+# 基于Electron + Vue3 + TypeScript + Vite的模板
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img src="https://img.shields.io/badge/Frame-Hexo-blue?logo=Hexo&style=plastic">
+<img src="https://img.shields.io/badge/Frame-Hexo-blue?logo=Hexo&style=flat">
+<img src="https://img.shields.io/badge/Frame-Hexo-blue?logo=Hexo&style=flat-square">
+<img src="https://img.shields.io/badge/Frame-Hexo-blue?logo=Hexo&style=for-the-badge">
+<img src="https://img.shields.io/badge/Frame-Hexo-blue?logo=Hexo&style=social">
+<!-- 添加图标和自定义label -->
 
 ## Recommended IDE Setup
 
