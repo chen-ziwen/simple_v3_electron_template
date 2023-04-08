@@ -1,11 +1,11 @@
 # 基于Electron + Vue3 + TypeScript + Vite的模板
 基于某个突然的想法，想搞一个基于vue3的electron项目，找了一些项目，发现并没有很好用的集成项目。就想着自己鼓捣一下，花了一点时间，简单的做一个模板，方便自己下次的开发，有兴趣的朋友也可以下载玩一玩。
 
-## 项目须知
-
-### 项目运行环境安装
+## 项目下载
 ```
+git clone git@github.com:chen-ziwen/electron_vue3_vite_template.git
 npm install
+cd electron_vue3_vite_template
 ```
 
 ### 项目开发编译
