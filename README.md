@@ -4,8 +4,8 @@
 ## 项目下载
 ```
 git clone git@github.com:chen-ziwen/electron_vue3_vite_template.git
-npm install
 cd electron_vue3_vite_template
+npm install
 ```
 
 ### 项目开发编译
