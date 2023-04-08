@@ -13,7 +13,7 @@ cd electron_vue3_vite_template
 npm start
 ```
 
-### 项目打包
+### 项目打包exe
 ```
 npm run build
 ```
